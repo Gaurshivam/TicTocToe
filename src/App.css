@@ -1,0 +1,16 @@
+.board-row{
+  display: flex;
+  align-items: center;
+  margin: auto;
+}
+
+.board-container{
+  margin: auto;
+}
+
+.App{
+  width: 300px;
+  height: 400px;
+  margin: auto;
+  text-align: center;
+}
